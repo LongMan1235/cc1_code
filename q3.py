@@ -52,3 +52,12 @@ if __name__ == "__main__":
         ))
 
     utils.plot_trajectories(solution, "q3_plot.png")
+
+
+# TEST
+#TEST
+# TEST
+#TEST# TEST
+#TEST# TEST
+#TEST# TEST
+#TEST
